@@ -229,6 +229,12 @@
       "skillPath": "skills/systematic-debugging/SKILL.md",
       "computedHash": "792a368e074981d7e3138edb439e138489b2ac247cd1e5739fab52af680fb17b"
     },
+    "task-observer": {
+      "source": "rebelytics/one-skill-to-rule-them-all",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "8dc251868b3c42556dedf4c0b6577af5b1d92b1875a6c1519a480985927d02d3"
+    },
     "template-skill": {
       "source": "anthropics/skills",
       "sourceType": "github",
