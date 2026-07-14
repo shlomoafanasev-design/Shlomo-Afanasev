@@ -115,6 +115,12 @@
       "skillPath": "plugin/skills/how-it-works/SKILL.md",
       "computedHash": "121ff2926b3de14b8b1ffdb883b736004a3b25e3fcb3589ca386ecca5bff1900"
     },
+    "impeccable": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/impeccable/SKILL.md",
+      "computedHash": "e07098370ad7fd4605b67d305d8c06623a5c7d7737d2364e30932294ef880ff6"
+    },
     "internal-comms": {
       "source": "anthropics/skills",
       "sourceType": "github",
